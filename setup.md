@@ -3,15 +3,34 @@
 - Install key
 
 ## Package Control
-
-### Packages to install
+Install
 - [Package Control](https://packagecontrol.io/installation)
+
+## Packages to install
+
+### Global
 - Theme Soda
 - Advanced new file
 	- ctrl alt n for new file
-- Sidebar enhance
+- Sidebar Enhancements
+	-Better files
 
-### User settings
+### Python
+- Jedi Python Autocomplete
+
+#### Django
+
+### Latex
+- Latex Tools
+- Latex Snippets
+
+### Web
+#### HTML
+- Emmet
+
+#### CSS
+
+## User settings
 Copy Contents of user.settings.txt into current user settings.
 
 ## UI Tweaks
