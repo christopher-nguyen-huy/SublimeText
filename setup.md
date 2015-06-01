@@ -39,6 +39,12 @@ Install
 
 #### CSS
 
+## Packages to disable
+- Html
+	- autocompletes in markdown files
+- Emmet
+	- KB shortcut issues (ctrl+up/down)
+
 ## User settings
 Copy Contents of user.settings.txt into current user settings.
 
