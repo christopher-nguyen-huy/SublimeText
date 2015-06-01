@@ -14,6 +14,12 @@ Install
 	- ctrl alt n for new file
 - Sidebar Enhancements
 	-Better files
+- Insert date
+	- Inserts the current date
+	- Copy insertdate.usersettings.txt as user settings
+
+### Markdown
+- Markdown preview
 
 ### Python
 - Jedi Python Autocomplete
@@ -25,6 +31,9 @@ Install
 - Latex Snippets
 
 ### Web
+#### Rest
+- Rester HTTP Clien
+
 #### HTML
 - Emmet
 
