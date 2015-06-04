@@ -1,13 +1,13 @@
 {
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"default_encoding": "UTF-8",
-	"draw_white_space": "selection",
 	"enable_tab_scrolling": false,
 	"font_size": 12,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Emmet",
-		"HTML"
+		"HTML",
+		"Emmet"
 	],
 	"soda_classic_tabs": true,
 	"theme": "Soda Dark 3.sublime-theme",
