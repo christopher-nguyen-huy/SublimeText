@@ -44,6 +44,9 @@ Install
 
 #### CSS
 
+#### Git
+- divmain/GitSavvy
+- kemayo/sublime-text-git
 ## Packages to disable
 - Html
 	- autocompletes in markdown files
