@@ -23,8 +23,10 @@ Install
 
 ### Python
 - Jedi Python Autocomplete
+- requirementstxt
 
 #### Django
+- Djaneiro
 
 ### Latex
 - Latex Tools
@@ -37,8 +39,14 @@ Install
 #### HTML
 - Emmet
 
+#### FTP
+- FTP Sync
+
 #### CSS
 
+#### Git
+- divmain/GitSavvy
+- kemayo/sublime-text-git
 ## Packages to disable
 - Html
 	- autocompletes in markdown files
