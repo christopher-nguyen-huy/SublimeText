@@ -3,5 +3,7 @@
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 	//pause key halts execution
-	{"keys": ["pause"], "command": "exec", "args": {"kill": true}}
+	{"keys": ["pause"], "command": "exec", "args": {"kill": true}},
+	//Reset font size
+	{ "keys": ["ctrl+0"], "command": "reset_font_size" }
 ]
