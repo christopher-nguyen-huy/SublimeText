@@ -17,6 +17,8 @@ Install
 - Insert date
 	- Inserts the current date
 	- Copy insertdate.usersettings.txt as user settings
+- Monokai Extended
+	- Better syntax highlighting for everything but mostly markdown
 
 ### Markdown
 - Markdown preview
@@ -34,7 +36,7 @@ Install
 
 ### Web
 #### Rest
-- Rester HTTP Clien
+- Rester HTTP Client
 
 #### HTML
 - Emmet
