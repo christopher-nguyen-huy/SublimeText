@@ -49,6 +49,7 @@ Install
 #### Git
 - divmain/GitSavvy
 - kemayo/sublime-text-git
+
 ## Packages to disable
 - Html
 	- autocompletes in markdown files
@@ -60,7 +61,7 @@ Copy Contents of user.settings.txt into current user settings.
 
 ## UI Tweaks
 ### Disable menu bar
-View->Show Menu  
+View->Show Menu or `Ctrl+Shift+P`->Type: Vmen (view menu)->Toggle View Menu
 (can be reactivated with alt key)
 
 ### Soda Dark Monoka theme
