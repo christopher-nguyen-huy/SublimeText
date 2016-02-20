@@ -24,6 +24,7 @@ Install
 - Markdown preview
 
 ### Python
+- Virtualenv
 - Jedi Python Autocomplete
 - requirementstxt
 
