@@ -1,2 +1,5 @@
 alt-shift-1 for single pane
 alt-shfit-2 for dual pane
+
+# Themes here!
+http://colorsublime.com/
