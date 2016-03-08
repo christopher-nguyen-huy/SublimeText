@@ -1,0 +1,18 @@
+# Good themes
+## Cyanide
+Package control:
+- Theme - Cyanide
+Settings:
+```
+"color_scheme": "Packages/Theme - Cyanide/Monocyanide.tmTheme",
+"theme": "Cyanide.sublime-theme",
+```
+
+## Monokai Soda
+Package control:
+- Theme - Soda
+Settings:
+```
+"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+"theme": "Soda Dark 3.sublime-theme",
+```
