@@ -3,3 +3,46 @@ alt-shfit-2 for dual pane
 
 # Themes here!
 http://colorsublime.com/
+
+
+# Projects
+## Switching projects
+ctrl-alt-p
+
+## Deleting projects
+1. Close Sublime Text
+2. Locate the Session.sublime_session file using the paths below and open it with another code editor. * DO NOT open it with Sublime Text as any changes you make will be overwritten. *
+
+Paths to Session.sublime_session file listed by OS and ST version:
+
+Windows x64:
+
+Sublime Text 2
+
+C:\Users\[Username]\AppData\Roaming\Sublime Text 2\Settings\Session.sublime_session
+
+Sublime Text 3
+
+C:\Program Files\Sublime Text 3\Data\Local\Session.sublime_session
+
+Mac OSX:
+
+Sublime Text 2
+
+~/Library/Application Support/Sublime Text 2/Settings/Session.sublime_session
+
+Sublime Text 3
+
+~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session
+
+Linux (Ubuntu):
+
+Sublime Text 2
+
+~/.config/sublime-text-2/Settings/Session.sublime_session
+
+Sublime Text 3
+
+~/config/sublime-text-3/Settings/Session.sublime_session
+
+3. Remove offending project in workspaces.recne_workspaces section
