@@ -45,4 +45,4 @@ Sublime Text 3
 
 ~/config/sublime-text-3/Settings/Session.sublime_session
 
-3. Remove offending project in workspaces.recne_workspaces section
+3. Remove offending project in workspaces.recent_workspaces section
